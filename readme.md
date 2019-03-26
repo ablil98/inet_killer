@@ -2,7 +2,10 @@
 
 Proof of Concept of connection killing with ARP spoofing.
 ```
-In computer networking, ARP spoofing, ARP cache poisoning, or ARP poison routing, is a technique by which an attacker sends (spoofed) Address Resolution Protocol (ARP) messages onto a local area network. Generally, the aim is to associate the attacker's MAC address with the IP address of another host, such as the default gateway, causing any traffic meant for that IP address to be sent to the attacker instead.
+In computer networking, ARP spoofing, ARP cache poisoning, or ARP poison routing, is a technique by which an attacker sends
+(spoofed) Address Resolution Protocol (ARP) messages onto a local area network. Generally, the aim is to associate the
+attacker's MAC address with the IP address of another host, such as the default gateway, causing any traffic meant for that
+IP address to be sent to the attacker instead.
 ```
 ![alt text](.img/inet_killer.png)
 
